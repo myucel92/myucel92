@@ -4,12 +4,12 @@ Hi 👋 My name is Mustafa YUCEL
 AWS Cloud Native & DevOps Engineer
 ---------------------
 
-I received training on AWS and DevOps from Clarusway bootcamp. I have 2 AWS certificates (AWS Cloud Practitioner and AWS Solutions Architect - Associate). During the training, I took part in many hands-on and projects.
+I have received training in AWS Native Cloud and DevOps. I hold two AWS certifications (AWS Cloud Practitioner and AWS Solutions Architect - Associate). During my training, I participated in numerous hands-on exercises and projects.
 
 * 🌍  I'm based in Kayseri/ Turkey
 * 🖥️  See my portfolio at [My GitHub Repo](http://github.com/myucel92)
 * ✉️  You can contact me at [myucel2438@gmail.com](mailto:myucel2438@gmail.com)
-* 🧠  I'm learning I am currently trying to develop myself more about the CI/CD process
+* 🧠  I am currently working on how we can further improve our CI/CD process and set up the smoothest possible automation.
 
 <a href="https://www.github.com/myucel92" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/myucel92?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a>
