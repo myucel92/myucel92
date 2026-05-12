@@ -1,7 +1,7 @@
 Hi 👋 My name is Mustafa YUCEL
 ==============================
 
-AWS & DevOps Engineer
+AWS Cloud Native & DevOps Engineer
 ---------------------
 
 I received training on AWS and DevOps from Clarusway bootcamp. I have 2 AWS certificates (AWS Cloud Practitioner and AWS Solutions Architect - Associate). During the training, I took part in many hands-on and projects.
