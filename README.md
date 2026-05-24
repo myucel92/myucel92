@@ -30,8 +30,6 @@ github.com/myucel92
 
 📍 Kayseri / Türkiye
 
-<a href="https://www.github.com/myucel92" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/myucel92?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a>
 ### Skills
 
 <p align="left">
@@ -41,9 +39,8 @@ src="https://img.shields.io/github/followers/myucel92?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/myucel92" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mustafaycl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+### Badges
 
 <a href="http://www.github.com/myucel92"><img src="https://github-readme-stats.vercel.app/api?username=myucel92&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="myucel92's GitHub stats" /></a>
 
