@@ -1,15 +1,34 @@
-Hi 👋 My name is Mustafa YUCEL
-==============================
+# Hi 👋 I'm Mustafa Yücel
 
-AWS Cloud Native & DevOps Engineer
----------------------
+## Cloud Native & DevOps Engineer
 
-I have received training in AWS Native Cloud and DevOps. I hold two AWS certifications (AWS Cloud Practitioner and AWS Solutions Architect - Associate). During my training, I participated in numerous hands-on exercises and projects.
+I build production-like cloud-native and DevOps projects using Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, and AWS.
 
-* 🌍  I'm based in Kayseri/ Turkey
-* 🖥️  See my portfolio at [My GitHub Repo](http://github.com/myucel92)
-* ✉️  You can contact me at [myucel2438@gmail.com](mailto:myucel2438@gmail.com)
-* 🧠  I am currently working on how we can further improve our CI/CD process and set up the smoothest possible automation.
+Focused on:
+
+* Kubernetes & Container Orchestration
+* CI/CD & DevSecOps
+* Infrastructure as Code
+* Monitoring & Observability
+* Cloud Automation
+
+## Featured Project
+
+🚀 AI-Assisted Cloud Native CI/CD Pipeline
+Production-like DevOps project with:
+
+* Kubernetes
+* Helm
+* GitHub Actions
+* GHCR
+* Trivy Security Scanning
+* Prometheus & Grafana
+* HPA Autoscaling
+
+🔗 GitHub Portfolio:
+github.com/myucel92
+
+📍 Kayseri / Türkiye
 
 <a href="https://www.github.com/myucel92" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/myucel92?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a>
